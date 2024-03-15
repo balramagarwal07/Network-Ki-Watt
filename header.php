@@ -57,13 +57,7 @@
             <ul class="nav navbar-nav right">
               <li><a href="index.php">Home</a>
               </li>
-              <li><a href="#">Page<i class="fa fa-angle-down"></i></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="single-post.php">Single Page</a></li>
-                    <li><a href="category.php">Listing Page</a></li>
-                    <li><a href="404.php">404 Page</a></li>
-                  </ul>
-              </li>
+              
 			  <li><a href="#">Categories<i class="fa fa-angle-down"></i></a>
                   <ul class="dropdown-menu">
                     <li><a href="category.php">Telecom Industry</a></li>
