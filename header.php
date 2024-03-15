@@ -55,7 +55,6 @@
 		  <a href="submit-story.php" class="btn-red-outline desktop-submit-story-button story-page-button right"><i class="fa fa-plus"></i> Submit Your Story</a>
             <!-- Right nav -->
             <ul class="nav navbar-nav right">
-              <li><a href="index.php">Home</a>
               </li>
               <li><a href="#">Page<i class="fa fa-angle-down"></i></a>
                   <ul class="dropdown-menu">
